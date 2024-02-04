@@ -23,11 +23,11 @@ Learning on Historical data of the stock.
 The purpose of this module is to obtain the sentiment value of latest news headlines 
 regarding each stock and output its average as sentiment value to fuzzy module.
 The steps used in this module are as follows:
-1. Data Collection:
+1. #Data Collection:
 The data is collected by crawling through Indian Financial news websites. Minimum 4 news Headlines are scraped for each stock and stored against the company Symbol.
-2. Tokenizing:
+2. #Tokenizing:
 Each news headline is broken down into sentences and then in turn broken down into words.
-3. Lemmatizing:
+3. #Lemmatizing:
 It is the process of reducing inflected (or sometimes derived) words to 
 their word stem, base or root form. For example, “the boy's cars are 
 different colours” reduces to “the boy car be differ colour”
@@ -43,7 +43,7 @@ The activation rules for this module are:
 - IF the News Sentiment was good or the Stock Prediction value was good, 
 THEN the Stock faith will be high.
 - IF the Stock Prediction value was average, THEN the Stock faith will be 
-medium.
+medium and completely based on weights assigned.
 - IF the News Sentiment was poor and the Stock Prediction value was poor 
 THEN the Stock faith will be low.
 
