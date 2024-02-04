@@ -21,4 +21,5 @@ implemented which are as follows:
 - Fuzzy logic Module
 
 These modules are integrated into a Recommendation Model in the following manner as shown in Fig.
-![model] (C:\Users\ROHIT SHARMA\OneDrive\Desktop\Pictures\Screenshots\Screenshot 2024-02-04 211829.png)
+![Screenshot 2024-02-04 211829](https://github.com/jainrishi601/Real_Time_Market_Insights/assets/128663753/081e36bb-0205-4794-9a7a-f9751352eab8)
+
