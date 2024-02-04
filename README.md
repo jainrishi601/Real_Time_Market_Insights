@@ -1,10 +1,3 @@
- #                                                                                      Real_Time_Market_Insights
-Hackathon_Hack2skill
-## Fundamental analysis
-This strategy focuses on a company's track record and reliability, using metrics like P/E ratios to pinpoint stocks with potential value growth. It's built on the premise that profitable businesses will sustain their success, driven by market rewards and uptrends.
-## Technical Analysis
-This method is based on using time series analysis on historical trends to forecast future pricing. To forecast the ensuing trends, statistical methods like Bollinger Bands and simple moving averages are used.
-##  Modern approach to Stock market analysis
 
 ###  Qualitative Analysis
 Bad news rapidly impacts stock markets, fostering unpredictability. The strong connection between media, social media, and stocks intensifies this influence. Equities mirroring each other during crises contribute to market crashes. Twitter, a swift and reliable media source, plays a pivotal role. Combining news and Twitter feeds with sentiment analysis unveils succinct insights into public opinions on corporations.
