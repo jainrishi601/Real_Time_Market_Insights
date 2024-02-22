@@ -1,3 +1,4 @@
+![Screenshot 2024-02-22 234356](https://github.com/officialshivansh26/Real_Time_Market_Insights/assets/153520076/9d442e60-dc16-4b07-9d9d-0143d7b45b06)
 
 ## Candle Stick Pattern Detection
 It is Japanese method for prediction of the stock prices.
