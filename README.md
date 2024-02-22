@@ -19,6 +19,11 @@ Learning on Historical data of the stock.
 
 ![Screenshot 2024-02-04 213451](https://github.com/jainrishi601/Real_Time_Market_Insights/assets/128663753/fac93b60-4dd1-43a7-b7b2-afdfa0908aad)
 
+## Pattern Prediction
+It is Japanese method for prediction of candle stick pattern.
+Candlestick pattern prediction involves analyzing the formations of candlesticks on a price chart to forecast future price movements in financial markets, such as stocks, forex, or cryptocurrencies. Traders use patterns formed by candlesticks, such as doji, hammer, engulfing, and others, along with other technical indicators, to anticipate potential market direction changes.
+
+
 ## Sentiment Analysis Module 
 The purpose of this module is to obtain the sentiment value of latest news headlines 
 regarding each stock and output its average as sentiment value to fuzzy module.
